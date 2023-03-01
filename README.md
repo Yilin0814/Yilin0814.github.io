@@ -1,57 +1,27 @@
 # Yilin Wang
 
----
 
-| No.67, Shuianlijing, Shanghai, China | 200070 |
-| --- | --- |
+ No.67, Shuianlijing, Shanghai, China  200070 
+ +86 19912489211  yilin190319@gmail.com 
 
-| +86 19912489211 | mailto:yilin190319@gmail.com |
-| --- | --- |
 
-service@**XXX**.com
+## OBJECTIVE:  Data Analyst 
 
-| OBJECTIVE | Data Analyst |
-| --- | --- |
-
----
 
 **EDUCATION**
 
----
+ 2015.09-2018.06  Information Technology  BinZhouUniversity 
 
-| 2015.09-2018.06 | Information Technology | BinZhouUniversity |
-| --- | --- | --- |
-
----
 
 **EXPERIENCE**
 
----
+ 2018.08-2022.10  58 Group, China  Big data development engineer 
+ • Responsible for data warehouse modeling and data development
+ • Responsible for the design and construction of big data platform architecture 
+ • Responsible for BI middle desk design, report development, data maintenance, etc |
 
-| 2018.08-2022.10 | 58 Group, China | Big data development engineer |
-| --- | --- | --- |
-
-| • | Responsible for data warehouse modeling and data development
- |
-| --- | --- |
-
-| • | Responsible for the design and construction of big data platform architecture |
-| --- | --- |
-
-| • | Responsible for BI middle desk design, report development, data maintenance, etc |
-| --- | --- |
-
----
 
 **SKILLS**
 
----
-
-| English Skills: | Native speaker of Chinese, fluent in both spoken and written English |
-| --- | --- |
-
-|  | CET-6 | Passed | TOEFL | 600 |
-| --- | --- | --- | --- | --- |
-
-| IT Skills: | SAS,Microsoft Office,Lotus,etc.Be adept at Windows System and Internet. Passed NCRE-1 |
-| --- | --- |
+ English Skills:  Native speaker of Chinese, fluent in both spoken and written English 
+ IT Skills:  SAS,Microsoft Office,Lotus,etc.Be adept at Windows System and Internet. Passed NCRE-1 
