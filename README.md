@@ -1,6 +1,6 @@
 # Yilin Wang
- - No.67, Shuianlijing, Shanghai, China  200070 
- - +86 19912489211  
+ - Pori, Finland
+ - +358 417213907
  - yilin190319@gmail.com 
 
 
