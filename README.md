@@ -51,7 +51,7 @@ Sep 2023 – Dec 2025 (Expected)
 
 - Responsible for data warehouse modeling and data development
 - Responsible for the design and construction of big data platform architecture
-- Responsible for BI middle desk design, report development, data maintenance, etc |
+- Responsible for BI middle desk design, report development, data maintenance, etc
 
 ## **Project Experience**
 
