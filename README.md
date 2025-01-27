@@ -7,12 +7,10 @@
 ## OBJECTIVE:  Data Analyst 
 
 
-**EDUCATION**
-
- 2015.09-2018.06  
- - Information Technology  
- - BinZhouUniversity 
-
+## **EDUCATION**
+**Statakunta University of Applied Sciences**
+Bachelor of Data Engineering
+Sep 2023 – Dec 2025 (Expected)
 
 **EXPERIENCE**
 
