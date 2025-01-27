@@ -6,8 +6,6 @@
 
 ## **EDUCATION**
 
----
-
 **Statakunta University of Applied Sciences**
 
 Bachelor of Data Engineering
@@ -15,8 +13,6 @@ Bachelor of Data Engineering
 Sep 2023 – Dec 2025 (Expected)
 
 ## **SKILLS**
-
----
 
 **Programming Language:**
 
@@ -54,8 +50,6 @@ Design and produce slides, using Shapes Transitions and Animation
 
 ## **Work Experience**
 
----
-
 ### **Big data development engineer**
 
 **58.com                            Beijing, China**
@@ -88,7 +82,7 @@ This project developed a chatbot to assist companies in complying NIS2 standard 
 
 ---
 
-### **Identifying roses using YOLO**
+### **Identifying roses using YOLO 09/2024 – 10/2024**
 
 **Technology stack:**
 
