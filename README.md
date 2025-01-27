@@ -6,37 +6,54 @@
 
 ## EDUCATION
 **Statakunta University of Applied Sciences**
+
 Bachelor of Data Engineering
+
 Sep 2023 – Dec 2025 (Expected)
 
 ## SKILLS
 - Programming Language:
+
 Fluent in Python
+
 Fluent in Shell scripting Familiar with Java
 
 - Tools & Technologies:
+
 Fluent in using Git Fluent in Docker
 
 - AI:
+
 Experience in training YOLO for object detection
+
 Familiar with mainstream LLMs, including ChatGPT, Ollama, and Claude
+
 Experienced in RAG for improving AI search and knowledge retrieval
+
 Familiar with multi-agent AI systems for automation and decision-making
 
 - Databases & SQL:
+
 Fluent with DBMS, including Hive, MySQL, VectorDB, and MongoDB
+
 Fluent in SQL, with experience in query optimization, aggregation, and complex data processing
 
 - Data visualization:
+
 Similar use Qlik Sense and Power BI
+
 Design and produce slides, using Shapes Transitions and Animation
 
 ## Work Experience
 **Big data development engineer**
 58.com  Beijing, China
+
 03/2019-08/2022      
+
  - Responsible for data warehouse modeling and data development
+ 
  - Responsible for the design and construction of big data platform architecture 
+ 
  - Responsible for BI middle desk design, report development, data maintenance, etc |
 
 ## Project Experience
