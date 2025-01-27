@@ -62,8 +62,6 @@ Design and produce slides, using Shapes Transitions and Animation
 
 ## **Project Experience**
 
----
-
 ### **Kytee - Chatbot 11/2024 – 12/2024**
 
 **Technology Stack:** 
